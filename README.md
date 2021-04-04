@@ -1,7 +1,6 @@
-1
+👋 Hi, there!👋
 
-### BOJ 👋
-
+📖 BOJ 📖
 <!--
 **HamBeomJoon/HamBeomJoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Fun fact: ...
 -->
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawnssla1"/>
