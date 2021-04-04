@@ -1,6 +1,6 @@
 👋 Hi, there!👋
 
-📖 BOJ 📖
+
 <!--
 **HamBeomJoon/HamBeomJoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - Fun fact: ...
 -->
+📖 Baekjoon Online Judge 📖
+
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawnssla1"/>
