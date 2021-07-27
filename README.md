@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - Fun fact: ...
 -->
 📖 Baekjoon Online Judge 📖
-
+ # 티어만 높고 실력은..
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawnssla1"/>
