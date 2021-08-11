@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - Fun fact: ...
 -->
 
- <h5># 플레까지만 찍자 </h5>
+ <h5># 백준 플레까지만 찍자 </h5>
 📖 Baekjoon Online Judge 📖
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawnssla1"/>
