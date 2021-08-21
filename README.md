@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 📖 Baekjoon Online Judge 📖
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawnssla1"/>
 
-![Tech Blog Badge](http://img.shields.io/badge/-My%20Blog-black?style=square&logo=github&link=https://hbj0209.tistory.com/)
-          </a><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamBeomJoon%2Fhit-counter&count_bg=%2300FE07&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github%20Hits&edge_flat=false"/></a>
+<a href="https://hbj0209.tisoty.com/"><img src="https://img.shields.io/badge/My%20Blog-black?style=square&logo=github&logoColor=white"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamBeomJoon%2Fhit-counter&count_bg=%2300FE07&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github%20Hits&edge_flat=false"/></a>
