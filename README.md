@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 📖 Baekjoon Online Judge 📖
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawnssla1"/>
 
-My blog
+
+My blog: 
 <a href="https://hbj0209.tistory.com/"><img src="https://img.shields.io/badge/My%20Blog-black?style=square&logo=github&logoColor=white"></a>
 
