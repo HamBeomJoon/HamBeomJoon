@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  <h5># 백준 플레까지만 찍자 </h5>
 📖 Baekjoon Online Judge 📖
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawnssla1"/>
-
+<hr>
 
 My blog! &nbsp;
 <a href="https://hbj0209.tistory.com/"><img src="https://img.shields.io/badge/My%20Blog-black?style=square&logo=github&logoColor=white"></a>
