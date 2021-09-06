@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawnssla1"/>
 <hr>
 
-My blog! &nbsp;
+My blog 많이 방문해주세요! (방명록도 남겨주시면 감사) &nbsp;
 <a href="https://hbj0209.tistory.com/"><img src="https://img.shields.io/badge/My%20Blog-black?style=square&logo=github&logoColor=white"></a>
 
