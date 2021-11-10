@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 <hr>
 
 My blog 많이 방문해주세요! (방명록도 남겨주시면 감사) &nbsp;
+## 🗨 Blog
+
+- [Tistory Blog](https://hbj0209.tistory.com/)
 <a href="https://hbj0209.tistory.com/"><img src="https://img.shields.io/badge/My%20Blog-black?style=square&logo=github&logoColor=white"></a>
 
