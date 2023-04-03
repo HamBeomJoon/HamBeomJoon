@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  <h5># 백준 플레까지만 찍자 </h5>
 📖 Baekjoon Online Judge 📖
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qjawnssla1"/>
+<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=meeple"/>
 <hr>
 
 My blog 많이 방문해주세요! (방명록도 남겨주시면 감사) &nbsp;
