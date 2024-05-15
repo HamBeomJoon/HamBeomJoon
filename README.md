@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=meeple"/>
 <hr>
 
-My blog 많이 방문해주세요! (방명록도 남겨주시면 감사) &nbsp;
+ &nbsp;
 ## 🗨 Blog
 
 - [Tistory Blog](https://hbj0209.tistory.com/)
