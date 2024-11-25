@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=meeple"/>
 <hr>
 
-
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/HamBeomJoon"/>
+<img
+  src="https://render.gitanimals.org/farms/HamBeomJoon"
+  width="600"
+  height="300"
+/>
 </a>
-
 
  &nbsp;
 ## 🗨 Blog
