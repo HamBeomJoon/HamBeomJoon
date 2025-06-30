@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-![HamBeomJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamBeomJoon&show_icons=true&theme=tokyonight) &nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamBeomJoon&layout=compact)
+![HamBeomJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamBeomJoon&show_icons=true&theme=tokyonight) &nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamBeomJoon)
 
 <!--
  <h5># 백준 플레까지만 찍자 </h5>
