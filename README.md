@@ -47,5 +47,5 @@ Here are some ideas to get you started:
  &nbsp;
 ## 🗨 Blog
 
+- [Velog](https://velog.io/@sinabro0209)
 - [Tistory Blog](https://hbj0209.tistory.com/)
-
